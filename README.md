@@ -15,4 +15,4 @@ Andrew Park
 
 Table of Contents
 
-2. [Python Data Types](https://github.com/PisciesProgramming/DataScience-ForBeginners/blob/story/cap2-datatypes/2_PythonDataTypes_.ipynb)
+2. [Python Data Types](https://github.com/PisciesProgramming/DataScience-ForBeginners/blob/main/2_PythonDataTypes_.ipynb)
