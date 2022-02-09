@@ -11,3 +11,8 @@ Andrew Park
 <br />
 <br />
 >*"The World is one big data problem"* - Andrew McAfee :shamrock:
+
+
+Table of Contents
+
+2. [Python Data Types](https://github.com/PisciesProgramming/DataScience-ForBeginners/blob/story/cap2-datatypes/2_PythonDataTypes_.ipynb)
